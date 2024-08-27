@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Lucas Rodrigues 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React
+✏ - Tenho 21 anos, estou me aperfeiçoando dentro do mundo da tecnologia, conhecendo linguagens, tecnologias e experiências novas. Estou realizando minha graduação em ADS e em busca de uma oportunidade de trabalho para mostrar meus conhecimentos.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-r-f&hide=contribs&show_icons=true&theme=gotham&bg_color=00000000&count_private=true" />
